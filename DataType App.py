@@ -1,0 +1,7 @@
+print("Welcome to Zen's Store")
+print("^^^^^^^^^^^^^^^^^^^^^^")
+print("Apple",3,30,"THB",3*30)
+print("Orange",2,20,"THB",2*20)
+print("Banana",1,40,"THB",1*40)
+print("______________________")
+print("Thank you")
